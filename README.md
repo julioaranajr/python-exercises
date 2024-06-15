@@ -13,5 +13,5 @@ This repository is a clone from [Fhernd/PythonEjercicios](https://github.com/Fhe
 - Share with everyone who wants to get started in the wonderful and exciting World of Python.
 
 ```python
-print("Hello Buddies, Welcome to Python World!")
+print("Hello Buddies, Welcome to Python Exercises!")
 ```
